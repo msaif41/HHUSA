@@ -3,9 +3,9 @@
 Questions answered after data cleaning, exploration and analysis:
 
 <ul>
-<li>Is there a geographic location within the US that most of our individual donors come
+<li><i>Is there a geographic location within the US that most of our individual donors come
 from? Are there areas in the country we don't see any donors from? Do our social media
-  posts or fundraisers calling for donations hit these areas with little to no donors?</li>
+  posts or fundraisers calling for donations hit these areas with little to no donors?</i></li>
   
 <br> Most individual donations are coming from Georgia, Texas, California and New York.
 There is at least one donor from every state.
@@ -18,17 +18,17 @@ Fundraisers/social media posts are not hitting areas with little to no donors.
 Recommendation: Target states with low ratios of individual donors to veterans
 
 
-  <li>Do email campaigns have any effect on individual donations?</li>
+  <li><i>Do email campaigns have any effect on individual donations?</i></li>
   
   <br>Yes, email campaigns have a slight impact on individual donations, accounting for 7.5% of overall individual donation amounts.
 
-<li>Do email campaigns have any effect on job seekers creating profiles on the Hire Heroes
-  USA Job Board?</li>
+<li><i>Do email campaigns have any effect on job seekers creating profiles on the Hire Heroes
+  USA Job Board?</i></li>
   
   <br>For every 6-7 emails sent, 1 job seeker creates a profile on the Hire Heroes USA Job Board.
 
-<li>Is there a relationship between certain days of the week, times in the day, or months, or
-  time of year and when employers and job seekers create accounts?</li>
+<li><i>Is there a relationship between certain days of the week, times in the day, or months, or
+  time of year and when employers and job seekers create accounts?</i></li>
   
 <br>Both job seekers and employers tend to create accounts in the middle of the week (Tuesdays, Wednesdays, Thursdays), and much less so on Saturdays and Sundays. However, employers also create as many accounts on Mondays.
 There is an increase in account creations from 11 UTC (7AM EST), peaking at 18 UTC (2PM EST).
