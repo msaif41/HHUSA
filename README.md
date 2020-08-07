@@ -35,6 +35,6 @@ Recommendation: Target states with low ratios of individual donors to veterans
 There is an increase in account creations from 11 UTC (7AM EST), peaking at 18 UTC (2PM EST).
 Most account creations occur in August; the least in December.
 While the 20th of each month resulted in the most job seeker account creations, it marked the least frequent day for employer profile creations.
-Most employer profile creations occur on 1st of the month
+Most employer profile creations occur on the 1st of the month.
 
   </ul>
