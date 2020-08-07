@@ -8,7 +8,7 @@ Questions answered after data cleaning, exploration and analysis:
 from? Are there areas in the country we don't see any donors from? Do our social media
   posts or fundraisers calling for donations hit these areas with little to no donors?</li>
   
-Most individual donations are coming from Georgia, Texas, California and New York.
+<br> Most individual donations are coming from Georgia, Texas, California and New York.
 There is at least one donor from every state.
 The Plains, Rocky Mountain, Southwest and New England regions have the least amount of individual donations from both a volume and dollar amount perspective.
 The Great Lakes and Far West regions have several individual donors but the donation amount per individual is lower than other regions. 
