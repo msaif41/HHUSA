@@ -1,4 +1,4 @@
-# HHUSA Marketing &amp; Development analysis
+# HHUSA Marketing and Development analysis
 
 Questions answered after data cleaning, exploration and analysis:
 
