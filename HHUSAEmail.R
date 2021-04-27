@@ -39,7 +39,7 @@ str(dfEmail2)
 table(dfEmail2$Name)
 
 
-# ONLY USE TOB JOBS, since NO RESPONSE RECORDED for VIRTUAL CAREER FAIR
+# ONLY USE TOP JOBS, since NO RESPONSE RECORDED for VIRTUAL CAREER FAIR
 summary(dfTJ)
 str(dfTJ)
 
