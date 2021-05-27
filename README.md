@@ -25,7 +25,7 @@ Recommendation: Target states with low ratios of individual donors to veterans
 <li><i>Do email campaigns have any effect on job seekers creating profiles on the Hire Heroes
   USA Job Board?</i></li>
   
-  ![sketch](Hire Heroes USA Email Campaigns Visualization.png)
+  ![sketch](HHUSA_Email_Campaigns_Visualization.png)
   
   <br>For every 6-7 emails sent, 1 job seeker creates a profile on the Hire Heroes USA Job Board.
 
