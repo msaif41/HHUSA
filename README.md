@@ -23,11 +23,11 @@ Recommendation: Target states with low ratios of individual donors to veterans
   <br>Yes, email campaigns have a slight impact on individual donations, accounting for 7.5% of overall individual donation amounts.
 
 <li><i>Do email campaigns have any effect on job seekers creating profiles on the Hire Heroes
-  USA Job Board?</i></li>
+  USA Job Board?</i></li> <br>
   
   ![sketch](HHUSA_Email_Campaigns_Visualization.png)
   
-  <br>For every 6-7 emails sent, 1 job seeker creates a profile on the Hire Heroes USA Job Board.
+  For every 6-7 emails sent, 1 job seeker creates a profile on the Hire Heroes USA Job Board.
 
 <li><i>Is there a relationship between certain days of the week, times in the day, or months, or
   time of year and when employers and job seekers create accounts?</i></li>
