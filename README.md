@@ -26,7 +26,7 @@ Recommendation: Target states with low ratios of individual donors to veterans
   USA Job Board?</i></li> <br>
   
   ![sketch](HHUSA_Email_Campaigns_Visualization.png)
-  For every 6-7 emails sent, 1 job seeker creates a profile on the Hire Heroes USA Job Board.
+  <br>For every 6-7 emails sent, 1 job seeker creates a profile on the Hire Heroes USA Job Board.
 
 <li><i>Is there a relationship between certain days of the week, times in the day, or months, or
   time of year and when employers and job seekers create accounts?</i></li>
